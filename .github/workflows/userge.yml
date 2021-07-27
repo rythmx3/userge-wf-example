@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
     
 env:
-  GitHubMail: "iam.pro2@outlook.com"
-  GitHubName: "ProgrammingError" 
+  GitHubMail: "musicxvenom@yahoo.com"
+  GitHubName: "rythmx3" 
 jobs:
   build:
     runs-on: ubuntu-18.04
